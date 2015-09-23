@@ -2,7 +2,7 @@ url: https://y7kim.github.io
 baseurl: /huwelijk/
 
 # Site settings
-title: Huwelijk
+title: Lies en Sander
 email: sandervandecruys@gmail.com
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 
@@ -14,9 +14,9 @@ color:
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
+- name: Lies Mesens
   pic: 1
-  position: Lead Designer
+  position: de bruid
   social:
     - title: twitter
       url: #
@@ -25,9 +25,9 @@ people:
     - title: stack-overflow
       url: #
 
-- name: Larry Parker
+- name: Sander Van de Cruys
   pic: 2
-  position: Lead Marketer
+  position: de bruidegom
   social:
     - title: twitter
       url: #
