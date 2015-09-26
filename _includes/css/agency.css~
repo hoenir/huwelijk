@@ -11,7 +11,7 @@ body {
 }
 
 .text-muted {
-    color: #333;
+    color: #777;
 }
 
 .text-primary {
@@ -656,7 +656,7 @@ aside.clients img {
 
 section#contact {
     background-color: #222;
-    background-image: url(../img/Forest.jpg);
+    background-image: url(../img/map-image.png);
     background-position: center;
     background-repeat: no-repeat;
 }
@@ -727,7 +727,7 @@ footer {
 footer span.copyright {
     text-transform: uppercase;
     text-transform: none;
-    font-family: Quicksand,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     line-height: 40px;
 }
 
@@ -735,7 +735,7 @@ footer ul.quicklinks {
     margin-bottom: 0;
     text-transform: uppercase;
     text-transform: none;
-    font-family: Quicksand,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     line-height: 40px;
 }
 
