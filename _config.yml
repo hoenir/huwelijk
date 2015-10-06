@@ -1,5 +1,5 @@
-url: https://y7kim.github.io
-baseurl: /huwelijk/
+url: https://hoenir.github.io
+baseurl: https://hoenir.github.io
 
 # Site settings
 title: Lies & Sander
@@ -34,13 +34,13 @@ people:
     - title: facebook
       url: https://www.facebook.com/sander.vandecruys/
     - title: instagram
-      url: #
+      url: https://instagram.com/sandvdc
 
 - name: Tinne Mesens
   pic: 3
   position: Getuige van de bruid
   social:
-    - title: email
+    - title: envelope
       url: #
     - title: facebook
       url: https://www.facebook.com/tinne.mesens.7
