@@ -505,8 +505,8 @@ section h3.section-subheading {
     z-index: 100;
     position: absolute;
     left: 0;
-    width: 80px;
-    height: 80px;
+    width: 200px;
+    height: 200px;
     margin-left: 0;
     border: 7px solid #f1f1f1;
     border-radius: 100%;
@@ -567,9 +567,9 @@ section h3.section-subheading {
     }
     .timeline>li .timeline-image {
         left: 50%;
-        width: 100px;
-        height: 100px;
-        margin-left: -50px;
+        width: 200px;
+        height: 200px;
+        margin-left: -100px;
     }
     .timeline>li .timeline-image h4 {
         margin-top: 16px;
@@ -590,9 +590,9 @@ section h3.section-subheading {
         padding: 0 20px 20px;
     }
     .timeline>li .timeline-image {
-        width: 150px;
-        height: 150px;
-        margin-left: -75px;
+        width: 200px;
+        height: 200px;
+        margin-left: -100px;
     }
     .timeline>li .timeline-image h4 {
         margin-top: 30px;
@@ -611,9 +611,9 @@ section h3.section-subheading {
         padding: 0 20px 20px 100px;
     }
     .timeline>li .timeline-image {
-        width: 170px;
-        height: 170px;
-        margin-left: -85px;
+        width: 200px;
+        height: 200px;
+        margin-left: -100px;
     }
     .timeline>li .timeline-image h4 {
         margin-top: 40px;

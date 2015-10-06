@@ -47,6 +47,17 @@ people:
     - title: instagram
       url: https://instagram.com/tinnemesens/
 
+- name: Roos Van de Cruys
+  pic: 4
+  position: Getuige van de bruidegom
+  social:
+    - title: email
+      url: #
+    - title: facebook
+      url: https://www.facebook.com/tinne.mesens.7
+    - title: instagram
+      url: https://instagram.com/tinnemesens/      
+
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: github
