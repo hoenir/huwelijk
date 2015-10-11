@@ -642,9 +642,9 @@ aside.clients img {
     margin: 50px auto;
 }
 section#contact {
-    background-color: #222;
-    background-image: url(../img/Forest.jpg);
-    background-position: center;
+    background-color: #e6ac27;
+    background-image: url(../img/brillen.png);
+    background-position: center top;
     background-repeat: no-repeat;
 }
 section#contact .section-heading {
