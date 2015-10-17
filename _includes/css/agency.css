@@ -12,6 +12,7 @@ body {
 
 ;
 
+
 }
 .text-muted {
     color: #333;
@@ -60,6 +61,8 @@ h6 {
     sans-serif;
     font-weight: 700;
 }
+
+
 
 h5 {
 
@@ -144,6 +147,12 @@ color: #fff;
 background-color: #{{ site.color.primary }};
 
 }
+
+#ss-submit:hover{
+    background-color: #333;
+
+}
+
 .btn-xl:hover,
 .btn-xl:focus,
 .btn-xl:active,
@@ -672,6 +681,7 @@ section#contact .form-group textarea.form-control {
 section#contact .form-control:focus {
     border-color: #{{ site.color.primary }};
 box-shadow: none;
+color: #333;
 
 }
 section#contact::-webkit-input-placeholder {
