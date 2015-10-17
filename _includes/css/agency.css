@@ -60,6 +60,12 @@ h6 {
     sans-serif;
     font-weight: 700;
 }
+
+h5 {
+
+    font-size: 18px;
+    margin-top: 60px;
+}
 .img-centered {
     margin: 0 auto;
 }
@@ -486,7 +492,7 @@ section h3.section-subheading {
     float: right;
     position: relative;
     width: 100%;
-    padding: 0 20px 0 100px;
+    padding: 0 20px 0 220px;
     text-align: left;
 }
 .timeline>li .timeline-panel:before {
@@ -522,7 +528,7 @@ section h3.section-subheading {
 }
 .timeline>li.timeline-inverted>.timeline-panel {
     float: right;
-    padding: 0 20px 0 100px;
+    padding: 0 20px 0 220px;
     text-align: left;
 }
 .timeline>li.timeline-inverted>.timeline-panel:before {
@@ -562,7 +568,7 @@ section h3.section-subheading {
     .timeline>li .timeline-panel {
         float: left;
         width: 41%;
-        padding: 0 20px 20px 30px;
+        padding: 0 50px 20px 30px;
         text-align: right;
     }
     .timeline>li .timeline-image {
@@ -578,7 +584,7 @@ section h3.section-subheading {
     }
     .timeline>li.timeline-inverted>.timeline-panel {
         float: right;
-        padding: 0 30px 20px 20px;
+        padding: 0 30px 20px 50px;
         text-align: left;
     }
 }
@@ -644,7 +650,7 @@ aside.clients img {
 section#contact {
     background-color: #e6ac27;
     background-image: url(../img/brillen.png);
-    background-position: center top;
+    background-position: center 80px;
     background-repeat: no-repeat;
 }
 section#contact .section-heading {
